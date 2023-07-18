@@ -1,0 +1,29 @@
+/*! Hammer.JS - v2.0.17-rc - 2019-12-16
+ * http://naver.github.io/egjs
+ *
+ * Forked By Naver egjs
+ * Copyright (c) hammerjs
+ * Licensed under the MIT license */
+
+/*! noble-ed25519 - MIT License (c) 2019 Paul Miller (paulmillr.com) */
+
+/*! noble-hashes - MIT License (c) 2022 Paul Miller (paulmillr.com) */
+
+/*! noble-secp256k1 - MIT License (c) 2019 Paul Miller (paulmillr.com) */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/*! scure-base - MIT License (c) 2022 Paul Miller (paulmillr.com) */
+
+/*! scure-bip39 - MIT License (c) 2022 Patricio Palladino, Paul Miller (paulmillr.com) */
+
+/**
+ * @remix-run/router v1.5.0
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */

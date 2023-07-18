@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "568987236972",
+    "project_id": "haxwallet-f5578",
+    "storage_bucket": "haxwallet-f5578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568987236972:android:30f76991d2c4af312df649",
+        "android_client_info": {
+          "package_name": "com.haxwallet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568987236972-mnau0bfr61giu36n31k5m4ujui10akhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZatRokAW5I97sU3a0Wyk72uuZcHPok3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568987236972-mnau0bfr61giu36n31k5m4ujui10akhr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "568987236972-t3po73mlnfkmmcdkjjoqhn3mjpkls1k6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.haxwallet.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
